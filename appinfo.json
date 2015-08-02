@@ -1,0 +1,52 @@
+{
+    "appKeys": {
+        "KEY_comeback": 0,
+        "KEY_compliments": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "longName": "Comeback King",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/LOGO2smol.png",
+                "name": "Logo",
+                "type": "png"
+            },
+            {
+                "file": "images/HEAR2smol.png",
+                "name": "heart",
+                "type": "png"
+            },
+            {
+                "file": "images/FIRE2smol.png",
+                "name": "fire",
+                "type": "png"
+            },
+            {
+                "file": "fonts/AbrilFatface-Regular.ttf",
+                "name": "fatface_15",
+                "type": "font"
+            },
+            {
+                "file": "images/JOKEsmol.png",
+                "name": "Joke",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Comeback King",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "69a53987-379e-4ae7-a3c2-d08e5ffe8511",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
